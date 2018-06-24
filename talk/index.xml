@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks and Events on Bob Killen</title>
+    <link>https://mrbobbytabl.es/talk/</link>
+    <description>Recent content in Talks and Events on Bob Killen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://mrbobbytabl.es/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ansible, Integration Testing, and You.</title>
+      <link>https://mrbobbytabl.es/talk/2017_07_ostruct_meetup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrbobbytabl.es/talk/2017_07_ostruct_meetup/</guid>
+      <description>Ansible is quickly becoming one of, if not the most prevalent Configuration Management tools. It&amp;rsquo;s rapid growth however, is not mirrored in the tooling and processes to test and validate Ansible&amp;rsquo;s roles or playbooks. Thankfully, these tools exist in other communities, and can be easily adapted. This talk covers everything needed to get started with writing, integrating and automating these tests both locally and in AWS using a suite of common frameworks borrowed from the chef community: Test-Kitchen and ServerSpec.</description>
+    </item>
+    
+    <item>
+      <title>Federated Kubernetes - As a platform for Distributed Scientific Computing</title>
+      <link>https://mrbobbytabl.es/talk/2018_03_sib_wiw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrbobbytabl.es/talk/2018_03_sib_wiw/</guid>
+      <description>An overview of Kubernetes Federation, it&amp;rsquo;s research and scientific applications, and how the SLATE project intends to tackle them.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Kubernetes</title>
+      <link>https://mrbobbytabl.es/talk/2018_05_ostruct_workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrbobbytabl.es/talk/2018_05_ostruct_workshop/</guid>
+      <description>The 2nd session of the Beginner Track of the Saturday Workshop. This hour and a half session serves and an introduction to Kubernetes, it&amp;rsquo;s core components, and will finish up by touching upon Workloads. This is an interactive session and attendees should come prepared with minikube installed. Attendees should come away with a good understanding of the basics and grasp next steps for continuing their Kubernetes journey.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Kubernetes Workshop (Full-Day)</title>
+      <link>https://mrbobbytabl.es/talk/2018_10_i2techex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrbobbytabl.es/talk/2018_10_i2techex/</guid>
+      <description>Containers have shifted the way applications are packaged and delivered. Their use with cloud oriented services, data science and machine-learning is skyrocketing with the beneficial side effect of enabling reproducible research. This rise in use has necessitated the need to explore and adopt better container-centric orchestration tools. Of these tools, Kubernetes - an open-source container platform born within Google &amp;ndash; has become the de-facto standard.
+Kubernetes API-driven, highly extensible design has lead to its adoption by numerous vendors and projects.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Kubernetes Workshop (Half-Day)</title>
+      <link>https://mrbobbytabl.es/talk/2018_11_sc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrbobbytabl.es/talk/2018_11_sc/</guid>
+      <description>Containers have shifted the way applications are packaged and delivered. Their use in data science and machine learning is skyrocketing with the beneficial side effect of enabling reproducible research. This rise in use has necessitated the need to explore and adopt better container-centric orchestration tools. Of these tools, Kubernetes - an open-source container platform born within Google &amp;ndash; has become the de-facto standard.
+Kubernetes API-driven, highly extensible design has lead to its adoption by numerous vendors and projects.</description>
+    </item>
+    
+    <item>
+      <title>KubeconEU: Office Hours Live!</title>
+      <link>https://mrbobbytabl.es/talk/2018_05_kubeconeu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrbobbytabl.es/talk/2018_05_kubeconeu/</guid>
+      <description>This session is a live office hours session about Kubernetes. We will have a panel of Kubernetes developers available for you to ask questions and have them answered live for the audience.
+&amp;ldquo;Office Hours is a live stream where we answer live questions about Kubernetes from users on the YouTube channel. Office hours are a regularly scheduled meeting where people can bring topics to discuss with the greater community. They are great for answering questions, getting feedback on how you’re using Kubernetes, or to just passively learn by following along.</description>
+    </item>
+    
+  </channel>
+</rss>
