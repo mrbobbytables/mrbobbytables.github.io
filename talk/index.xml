@@ -22,6 +22,16 @@
     </item>
     
     <item>
+      <title>Cloud Infrastructure Solutions To Run HPC Workloads</title>
+      <link>https://mrbobbytabl.es/talk/2018_11_sc_bof/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrbobbytabl.es/talk/2018_11_sc_bof/</guid>
+      <description>Virtualization and containers have grown to see more prominent use within the realm of HPC. Adoption of these tools has enabled IT Organizations to reduce costs while making it easier to manage large pools of compute, storage and networking resources. However, performance overheads, networking integrations, and system complexity pose daunting architectural challenges.
+OpenStack, Docker, Charliecloud, Singularity, Kubernetes, and Mesos all pose their own set of unique benefits and challenges. This Birds of a Feather is aimed at architects, administrators, software engineers, and scientists interested in designing and deploying cloud infrastructure solutions to run HPC workloads.</description>
+    </item>
+    
+    <item>
       <title>Federated Kubernetes - As a platform for Distributed Scientific Computing</title>
       <link>https://mrbobbytabl.es/talk/2018_03_sib_wiw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -51,10 +61,10 @@ Kubernetes API-driven, highly extensible design has lead to its adoption by nume
     
     <item>
       <title>Introduction to Kubernetes Workshop (Half-Day)</title>
-      <link>https://mrbobbytabl.es/talk/2018_11_sc/</link>
+      <link>https://mrbobbytabl.es/talk/2018_11_sc_tut/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrbobbytabl.es/talk/2018_11_sc/</guid>
+      <guid>https://mrbobbytabl.es/talk/2018_11_sc_tut/</guid>
       <description>Containers have shifted the way applications are packaged and delivered. Their use in data science and machine learning is skyrocketing with the beneficial side effect of enabling reproducible research. This rise in use has necessitated the need to explore and adopt better container-centric orchestration tools. Of these tools, Kubernetes - an open-source container platform born within Google &amp;ndash; has become the de-facto standard.
 Kubernetes API-driven, highly extensible design has lead to its adoption by numerous vendors and projects.</description>
     </item>
