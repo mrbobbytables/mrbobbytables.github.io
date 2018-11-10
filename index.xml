@@ -26,10 +26,10 @@ from the chef community: Test-Kitchen and ServerSpec.&lt;/p&gt;
     
     <item>
       <title>Cloud Infrastructure Solutions To Run HPC Workloads</title>
-      <link>https://mrbobbytabl.es/talk/2018_11_sc_bof/</link>
+      <link>https://mrbobbytabl.es/talk/2018_11_sc_bof_cloud_hpc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrbobbytabl.es/talk/2018_11_sc_bof/</guid>
+      <guid>https://mrbobbytabl.es/talk/2018_11_sc_bof_cloud_hpc/</guid>
       <description>&lt;p&gt;Virtualization and containers have grown to see more prominent use within the realm of HPC. Adoption of these tools has enabled IT Organizations to reduce costs while making it easier to manage large pools of compute, storage and networking resources. However, performance overheads, networking integrations, and system complexity pose daunting architectural challenges.&lt;/p&gt;
 
 &lt;p&gt;OpenStack, Docker, Charliecloud, Singularity, Kubernetes, and Mesos all pose their own set of unique benefits and challenges. This Birds of a Feather is aimed at architects, administrators, software engineers, and scientists interested in designing and deploying cloud infrastructure solutions to run HPC workloads.&lt;/p&gt;
@@ -120,6 +120,20 @@ They are great for answering questions, getting feedback on how you’re using K
 following along.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/kubernetes/community/blob/master/events/office-hours.md&#34; target=&#34;_blank&#34;&gt;Office Hours Information&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meeting HPC Container Challenges as a Community</title>
+      <link>https://mrbobbytabl.es/talk/2018_11_sc_bof_container_hpc_community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrbobbytabl.es/talk/2018_11_sc_bof_container_hpc_community/</guid>
+      <description>&lt;p&gt;Containers increase the likelihood users can run the latest version of HPC applications in their data center, because it&amp;rsquo;s easier for administrators to install them and developers to deploy them. But we need to build and leverage an active community to solve remaining challenges.&lt;/p&gt;
+
+&lt;p&gt;The BoF presents, prioritizes, and gathers further input on top issues and budding solutions around containerization of HPC applications. Lightning talks nominated in ongoing community discussions describe the community&amp;rsquo;s top issues, frame challenges, highlight progress and plans. Led discussions expand on the seeded issues, enumerate additional problems, and draw the audience into our ongoing community-wide forum.&lt;/p&gt;
+
+&lt;p&gt;(&lt;strong&gt;Note:&lt;/strong&gt; unlisted panelist)&lt;/p&gt;
 </description>
     </item>
     

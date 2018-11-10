@@ -23,10 +23,10 @@
     
     <item>
       <title>Cloud Infrastructure Solutions To Run HPC Workloads</title>
-      <link>https://mrbobbytabl.es/talk/2018_11_sc_bof/</link>
+      <link>https://mrbobbytabl.es/talk/2018_11_sc_bof_cloud_hpc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrbobbytabl.es/talk/2018_11_sc_bof/</guid>
+      <guid>https://mrbobbytabl.es/talk/2018_11_sc_bof_cloud_hpc/</guid>
       <description>Virtualization and containers have grown to see more prominent use within the realm of HPC. Adoption of these tools has enabled IT Organizations to reduce costs while making it easier to manage large pools of compute, storage and networking resources. However, performance overheads, networking integrations, and system complexity pose daunting architectural challenges.
 OpenStack, Docker, Charliecloud, Singularity, Kubernetes, and Mesos all pose their own set of unique benefits and challenges. This Birds of a Feather is aimed at architects, administrators, software engineers, and scientists interested in designing and deploying cloud infrastructure solutions to run HPC workloads.</description>
     </item>
@@ -77,6 +77,16 @@ Kubernetes API-driven, highly extensible design has lead to its adoption by nume
       <guid>https://mrbobbytabl.es/talk/2018_05_kubeconeu/</guid>
       <description>This session is a live office hours session about Kubernetes. We will have a panel of Kubernetes developers available for you to ask questions and have them answered live for the audience.
 &amp;ldquo;Office Hours is a live stream where we answer live questions about Kubernetes from users on the YouTube channel. Office hours are a regularly scheduled meeting where people can bring topics to discuss with the greater community. They are great for answering questions, getting feedback on how you’re using Kubernetes, or to just passively learn by following along.</description>
+    </item>
+    
+    <item>
+      <title>Meeting HPC Container Challenges as a Community</title>
+      <link>https://mrbobbytabl.es/talk/2018_11_sc_bof_container_hpc_community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrbobbytabl.es/talk/2018_11_sc_bof_container_hpc_community/</guid>
+      <description>Containers increase the likelihood users can run the latest version of HPC applications in their data center, because it&amp;rsquo;s easier for administrators to install them and developers to deploy them. But we need to build and leverage an active community to solve remaining challenges.
+The BoF presents, prioritizes, and gathers further input on top issues and budding solutions around containerization of HPC applications. Lightning talks nominated in ongoing community discussions describe the community&amp;rsquo;s top issues, frame challenges, highlight progress and plans.</description>
     </item>
     
   </channel>
