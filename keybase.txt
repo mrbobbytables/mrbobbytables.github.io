@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/mrbobbytables
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mrbobbytabl.es
+  * I am mrbobbytables (https://keybase.io/mrbobbytables) on keybase.
+  * I have a public key with fingerprint C6B7 9E0F EAE2 0D73 0636  249C 03FB 8A86 1523 9E6D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012007d050c9059b1d810c2b38387aa9cf74d0b7924d424c935622c7c63c642e277b0a",
+      "fingerprint": "c6b79e0feae20d730636249c03fb8a8615239e6d",
+      "host": "keybase.io",
+      "key_id": "03fb8a8615239e6d",
+      "kid": "010136ccd1c97f137439a1d4455a541b797ac8394924ead50f5db92c732accc765ee0a",
+      "uid": "c50834ca1c5c9ba2519f9c0dbe1cfe19",
+      "username": "mrbobbytables"
+    },
+    "service": {
+      "hostname": "mrbobbytabl.es",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1546863533,
+  "expire_in": 157680000,
+  "prev": "567c736bc5850d03d373aa7d5a5b1c6e31bdff5bd0327b19ec1d80c178071c64",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFlUm1QVFUYXmCRAVk+UqkZJPSqKzp83O+PhXSmGEGdSiwYKXD33nPPXVaWXdhd
+FjbaBM0URoQZYgrUTREYMjIjHANUGgawtiFztETaPgZSokaExMaJRjpL8cvz58x5
+3+d53ud9z1uvCVKFBQTN17yzap2nKODrKUmVR71wtQKTrLIL01VghXDxgmYZ2h36
+QpOM6TCcIHGck3EGBwLOCBIh8wQOSIniKZ4TRQEoHC3jEieQtEyTNBAohiVJwAGW
+AixNQpLjJFzEEjHFZDFCW7HNZHEgWcAiCsQVKEISlzkKZymWpAWAU4rEizxLMCQl
+QFZGxAKr3c9A5iTRDpNNVhRDD/1/9p7EL/nGCYoFQCaAwCkExdGUIBIyTTOMyNAE
+qs6JgKcEGhmHoszgCiNLAjJOkSIAgGMZCBd9ly7KAQbnKRqIBGCAIIkkQwgKcitL
+kAAKJAQ/0A5tFrEIInSRTbJKksshSmZox9yJGEo5TQD6p+tv50lYMsIlYsU2q8MK
+rGaUK3A4iu06P9fhKvaDy6Ck/19GL5ksMhonYjihzW6yWjAdgZDAYfLrEgzN8izF
+UFQiBsuLTTaoN/kRDMfyODr+OtCJJA0My6GGWQkwPIPLOCVTHCWKnIxGJBGAhRQh
+yYrCSChFchIhQIC+HwcEx+McytOYv7MSixXTkTQyKhqRqN1ktIiOUhvE3GHVgZRa
+FRCmiotZqx6+6In8fVxjX8auP7G0g8GB/gVUhYVGLUX6w6NUlbqsxoqgnoDttcHZ
+lzJc9qJbY9fznp//XFAeV92IEFpTWypj1OmxSeVHr9zelbqw0nwn+I1nk4iuPc0t
+5o9bLrRWt7HaD37Y9m2f7+nIvH3P7cjZdNc9cEf++9eTSd/neF+csB/IpF+LTIBl
+iWmnaxif9potebmuq0OTH+Rs+tmwzB2j/krKdGKhs5+9Phq/Yf/ITKzmTPz9Qu14
+fde96eZdwy/Nsh8OrtzfOzsYPXGmP7LuQmd5yCufhG58WFKfdWmSC/wuYe76sfxP
+t3pGv2hWVXU37J5sfJRRFX2qyfjRhiMD9f2Z8etwfkX7VFuc5/L5vaa90Z11e3ZO
+Za/x3V31lnHobC4/MtZ53Jc7P/hgc/78oaC26nM3ner7s7rYfy47NnofDqX0HG5K
+c8xdaZlp7Yua5sZXj8BB/WPf1Jte10x4zs7D30yetsYZfqpxL6Thf2nuDQ/M2Y6f
+SKo3jnERB8++3BjT1ZFVk5Xu+7IhaWL98nev9f7SIWBzqRGbkuMrtRk33ja8Vxf1
+lOHPc2llDSXttTePbTEE707wqTxuV4a3emHbKXNKCHQ+8+rBrftKe7vXRN4+7y5b
+q80Txe6OHz2qnNGSworNqvTpbG9r8xGhU71DY5HaQ1Ma378Y33eATw9XV4i5xGqV
+NudRS4Gi9Q1sCfljCBxacavHW9jcf7V2+4OTv/0L
+=bvH/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mrbobbytables
+
+==================================================================
+
