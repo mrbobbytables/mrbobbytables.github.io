@@ -12,10 +12,10 @@
     
     <item>
       <title>Ansible, Integration Testing, and You.</title>
-      <link>https://mrbobbytabl.es/talk/2017_07_ostruct_meetup/</link>
+      <link>https://mrbobbytabl.es/talk/2017-07-26-ansible-integration-testing-and-you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrbobbytabl.es/talk/2017_07_ostruct_meetup/</guid>
+      <guid>https://mrbobbytabl.es/talk/2017-07-26-ansible-integration-testing-and-you/</guid>
       <description>&lt;p&gt;Ansible is quickly becoming one of, if not the most prevalent Configuration Management tools. It&amp;rsquo;s rapid growth
 however, is not mirrored in the tooling and processes to test and validate Ansible&amp;rsquo;s roles or playbooks. Thankfully,
 these tools exist in other communities, and can be easily adapted. This talk covers everything needed to get started
@@ -26,10 +26,10 @@ from the chef community: Test-Kitchen and ServerSpec.&lt;/p&gt;
     
     <item>
       <title>Cloud Infrastructure Solutions To Run HPC Workloads</title>
-      <link>https://mrbobbytabl.es/talk/2018_11_sc_bof_cloud_hpc/</link>
+      <link>https://mrbobbytabl.es/talk/2018-11-14-cloud-infrastructure-solutions-to-run-hpc-workloads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrbobbytabl.es/talk/2018_11_sc_bof_cloud_hpc/</guid>
+      <guid>https://mrbobbytabl.es/talk/2018-11-14-cloud-infrastructure-solutions-to-run-hpc-workloads/</guid>
       <description>&lt;p&gt;Virtualization and containers have grown to see more prominent use within the realm of HPC. Adoption of these tools has enabled IT Organizations to reduce costs while making it easier to manage large pools of compute, storage and networking resources. However, performance overheads, networking integrations, and system complexity pose daunting architectural challenges.&lt;/p&gt;
 
 &lt;p&gt;OpenStack, Docker, Charliecloud, Singularity, Kubernetes, and Mesos all pose their own set of unique benefits and challenges. This Birds of a Feather is aimed at architects, administrators, software engineers, and scientists interested in designing and deploying cloud infrastructure solutions to run HPC workloads.&lt;/p&gt;
@@ -38,10 +38,10 @@ from the chef community: Test-Kitchen and ServerSpec.&lt;/p&gt;
     
     <item>
       <title>Federated Kubernetes - As a platform for Distributed Scientific Computing</title>
-      <link>https://mrbobbytabl.es/talk/2018_03_sib_wiw/</link>
+      <link>https://mrbobbytabl.es/talk/2018-03-15-federated-kubernetes-as-a-platform-for-distributed-scientific-computing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrbobbytabl.es/talk/2018_03_sib_wiw/</guid>
+      <guid>https://mrbobbytabl.es/talk/2018-03-15-federated-kubernetes-as-a-platform-for-distributed-scientific-computing/</guid>
       <description>&lt;p&gt;An overview of Kubernetes Federation, it&amp;rsquo;s research and scientific applications, and how the
 &lt;a href=&#34;https://slateci.io&#34; target=&#34;_blank&#34;&gt;SLATE&lt;/a&gt; project intends to tackle them.&lt;/p&gt;
 </description>
@@ -49,10 +49,10 @@ from the chef community: Test-Kitchen and ServerSpec.&lt;/p&gt;
     
     <item>
       <title>Getting Started with Kubernetes</title>
-      <link>https://mrbobbytabl.es/talk/2018_05_ostruct_workshop/</link>
+      <link>https://mrbobbytabl.es/talk/2018-05-19-getting-started-with-kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrbobbytabl.es/talk/2018_05_ostruct_workshop/</guid>
+      <guid>https://mrbobbytabl.es/talk/2018-05-19-getting-started-with-kubernetes/</guid>
       <description>&lt;p&gt;The 2nd session of the Beginner Track of the Saturday Workshop. This hour and a half session serves and an introduction
 to Kubernetes, it&amp;rsquo;s core components, and will finish up by touching upon Workloads. This is an interactive session and
 attendees should come prepared with &lt;a href=&#34;https://github.com/kubernetes/minikube&#34; target=&#34;_blank&#34;&gt;minikube&lt;/a&gt; installed. Attendees should
@@ -62,10 +62,10 @@ come away with a good understanding of the basics and grasp next steps for conti
     
     <item>
       <title>Introduction to Kubernetes Workshop (Full-Day)</title>
-      <link>https://mrbobbytabl.es/talk/2018_10_i2techex/</link>
+      <link>https://mrbobbytabl.es/talk/2018-10-15-introduction-to-kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrbobbytabl.es/talk/2018_10_i2techex/</guid>
+      <guid>https://mrbobbytabl.es/talk/2018-10-15-introduction-to-kubernetes/</guid>
       <description>&lt;p&gt;Containers have shifted the way applications are packaged and delivered. Their use with cloud oriented services, data
 science and machine-learning is skyrocketing with the beneficial side effect of enabling reproducible research. This
 rise in use has necessitated the need to explore and adopt better container-centric orchestration tools. Of these
@@ -86,10 +86,10 @@ their own programs and services.&lt;/p&gt;
     
     <item>
       <title>Introduction to Kubernetes Workshop (Half-Day)</title>
-      <link>https://mrbobbytabl.es/talk/2018_11_sc_tut/</link>
+      <link>https://mrbobbytabl.es/talk/2018-11-11-introduction-to-kubernetes-workshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrbobbytabl.es/talk/2018_11_sc_tut/</guid>
+      <guid>https://mrbobbytabl.es/talk/2018-11-11-introduction-to-kubernetes-workshop/</guid>
       <description>&lt;p&gt;Containers have shifted the way applications are packaged and delivered. Their use in data science and machine learning
 is skyrocketing with the beneficial side effect of enabling reproducible research. This rise in use has necessitated
 the need to explore and adopt better container-centric orchestration tools. Of these tools, Kubernetes - an open-source
@@ -107,10 +107,10 @@ better understanding of how Kubernetes may be used for research applications.&lt
     
     <item>
       <title>KubeconEU: Office Hours Live!</title>
-      <link>https://mrbobbytabl.es/talk/2018_05_kubeconeu/</link>
+      <link>https://mrbobbytabl.es/talk/2018-05-04-kubeconeu-office-hours-live/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrbobbytabl.es/talk/2018_05_kubeconeu/</guid>
+      <guid>https://mrbobbytabl.es/talk/2018-05-04-kubeconeu-office-hours-live/</guid>
       <description>&lt;p&gt;This session is a live office hours session about Kubernetes. We will have a panel of Kubernetes developers available
 for you to ask questions and have them answered live for the audience.&lt;/p&gt;
 
@@ -124,11 +124,23 @@ following along.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
     </item>
     
     <item>
-      <title>Meeting HPC Container Challenges as a Community</title>
-      <link>https://mrbobbytabl.es/talk/2018_11_sc_bof_container_hpc_community/</link>
+      <title>Kubernetes: The Next Research Platform</title>
+      <link>https://mrbobbytabl.es/talk/2019-03-13-kubernetes-the-next-research-platform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrbobbytabl.es/talk/2018_11_sc_bof_container_hpc_community/</guid>
+      <guid>https://mrbobbytabl.es/talk/2019-03-13-kubernetes-the-next-research-platform/</guid>
+      <description>&lt;p&gt;Kubernetes has become the defacto standard as a platform for container orchestration. Its ease of extending and many integrations has paved the way for a wide variety of data science and research tooling to be built on top of it.&lt;/p&gt;
+
+&lt;p&gt;From all encompassing tools like Kubeflow that make it easy for researchers to build end-to-end Machine Learning pipelines to specific orchestration of analytics engines such as Spark; Kubernetes has made the deployment and management of these things easy. This presentation will showcase some of the larger research tools in the ecosystem and go into how Kubernetes has enabled this easy form of application management.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meeting HPC Container Challenges as a Community</title>
+      <link>https://mrbobbytabl.es/talk/2018-11-13-meeting-hpc-container-challenges-as-a-community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrbobbytabl.es/talk/2018-11-13-meeting-hpc-container-challenges-as-a-community/</guid>
       <description>&lt;p&gt;Containers increase the likelihood users can run the latest version of HPC applications in their data center, because it&amp;rsquo;s easier for administrators to install them and developers to deploy them. But we need to build and leverage an active community to solve remaining challenges.&lt;/p&gt;
 
 &lt;p&gt;The BoF presents, prioritizes, and gathers further input on top issues and budding solutions around containerization of HPC applications. Lightning talks nominated in ongoing community discussions describe the community&amp;rsquo;s top issues, frame challenges, highlight progress and plans. Led discussions expand on the seeded issues, enumerate additional problems, and draw the audience into our ongoing community-wide forum.&lt;/p&gt;
