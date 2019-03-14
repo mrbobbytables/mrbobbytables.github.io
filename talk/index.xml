@@ -80,6 +80,16 @@ Kubernetes API-driven, highly extensible design has lead to its adoption by nume
     </item>
     
     <item>
+      <title>Kubernetes: The New Research Platform</title>
+      <link>https://mrbobbytabl.es/talk/2019-05-21-kubernetes-the-new-research-platform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrbobbytabl.es/talk/2019-05-21-kubernetes-the-new-research-platform/</guid>
+      <description>Academic research institutions are at a precipice. They have historically been constrained to supporting classic “job” style workloads. With the growth of new workflow practices such as streaming data, science gateways, and more “dynamic” research using lambda-like functions, they must now support a variety of workloads.
+In this talk, Lindsey and Bob will discuss some difficulties faced by academic institutions and how Kubernetes offers an extensible solution to support the future of research.</description>
+    </item>
+    
+    <item>
       <title>Kubernetes: The Next Research Platform</title>
       <link>https://mrbobbytabl.es/talk/2019-03-13-kubernetes-the-next-research-platform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
