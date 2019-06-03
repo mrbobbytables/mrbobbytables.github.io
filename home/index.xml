@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 19 Jun 2018 18:02:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jun 2018 18:02:00 -0400</lastBuildDate>
     
 	<atom:link href="https://mrbobbytabl.es/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://mrbobbytabl.es/home/about/</link>
-      <pubDate>Tue, 19 Jun 2018 18:02:00 -0700</pubDate>
+      <pubDate>Tue, 19 Jun 2018 18:02:00 -0400</pubDate>
       
       <guid>https://mrbobbytabl.es/home/about/</guid>
       <description>About Bob is a Research Cloud Administrator with the Advanced Research Computing Technology Services (ARC-TS) group at the University of Michigan. He has been with the University for more than 15 years, serving in various capacities within the Health System and ARC-TS. As a Cloud Native Computing Foundation Ambassador, Bob has worked towards improving High Performance Computing, Machine Learning, and other Computational Research initiatives by integrating them with Cloud Native practices and tooling.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Talks and Events</title>
       <link>https://mrbobbytabl.es/home/talks-and-events/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://mrbobbytabl.es/home/talks-and-events/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Contact</title>
       <link>https://mrbobbytabl.es/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://mrbobbytabl.es/home/contact/</guid>
       <description></description>
